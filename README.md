@@ -9,3 +9,6 @@ What was also interesting to me was that Netflix released such a big quantity of
 ## Richards Comment
 
 It is unfortunate that the comepition ended up being shut down due to privacy reasons. I think it would be interesting if Netflix ended up modifying it slightly in the future to not violate any privacy laws but continue the competition. I think its also amazing that a senior in college ended up winning the tournament.
+
+## Jason's comment
+Interesting how the Netflix Prize was a groundbreaking competition that not only promised a million-dollar jackpot but also catalyzed a global community of data enthusiasts and experts, and ultimately reshaping the landscape of artificial intelligence and machine learning.
